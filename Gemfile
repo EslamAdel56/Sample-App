@@ -10,6 +10,9 @@ gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
 gem 'rails-controller-testing', '~> 0.0.3'
 gem 'sqlite3', '~> 1.4'
 gem 'bcrypt', '~> 3.1', '>= 3.1.12'
+gem 'faker', '~> 1.6', '>= 1.6.6'
+gem 'will_paginate', '~> 3.3'
+gem 'bootstrap-will_paginate', '~> 1.0'
 # Use Puma as the app server
 gem 'puma', '~> 4.1'
 # Use SCSS for stylesheets
